@@ -6,7 +6,9 @@ The purpose of the study is to analyze the data on student funding and standariz
 
 # Results:
 - How is the district summary affected?
-- 
+![image](https://user-images.githubusercontent.com/85364095/126882655-fb181baa-f42c-4cd8-83d9-7e35d09b18c0.png)
+
+
 ##
 ### There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data 
 
