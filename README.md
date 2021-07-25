@@ -22,20 +22,28 @@ Afetr dropping ninth grade
 We can see that the overall passing percentage decreased from 90.6% to 65%. But there was no difference in average reading score. Similarly the percentage of math score and percentage reading score decreased from 93 to 67% and from 97 to 69.6% respectively. 
 
 - **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
+
 Before replacing ninth grade, Thomas High School was one of the top 5 (2nd place) schools but after it did not make it to top 5 school list.
 
 -    **How does replacing the ninth-grade scores affect the following:**
-       - Math and reading scores by grade
+       - **Math and reading scores by grade** 
 
-t
-       - Scores by school spending
-       - Scores by school size
-        - Scores by school type
-
-
-##
-### There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data 
+The math and reading score for ninth grade is replaced ny NaN. There was not much difference in average maths scores for grade 11th and 12th but the average math score of 10th grade increased by 1 point. There was not difference in reading scores between grades.
+Thomas High School falls in the $630-$644/student spending range.
+      
+   - **Scores by school spending**
+   
+   Thomas High School falls in the $630-$644/student spending range.
+   - **Scores by school size**
+   
+   Thomas High School is defined as a medium sized school.
+   - **Scores by school type**
+  
+  Thomas High School is a charter school type.
 
 ## Summary:
-
-    There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced
+1. The overall passing rate for Thomas High School decreased from 90.6% to 65%.
+2. The ranking of Thomas High School dropped from 2nd to 8th position.
+3. There were not any significant difference in reading scores between grades.
+4. The overall math and reading scores were slightly changed.
+  
