@@ -19,7 +19,7 @@ Afetr dropping ninth grade
 We can see that the overall passing percentage increased from 65% to 90.6%. But there was no difference in average reading score. Similarly the percentage of math score and percentage reading score increased from 67 to 93 and from 69.6 to 97 respectively. 
 
 - **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
-
+Before replacing ninth grade Thomas High School was one of the top 5 schools but after it did not make it to top 5 school list.
 
 
 ##
