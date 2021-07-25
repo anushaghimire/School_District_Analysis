@@ -6,6 +6,8 @@ The purpose of the study is to analyze the data on student funding and standariz
 
 # Results:
 - **How is the district summary affected?**,
+![image](https://user-images.githubusercontent.com/85364095/126888227-a947d980-1f3f-40f4-948e-b3f2d591956d.png)
+
 ![image](https://user-images.githubusercontent.com/85364095/126888184-1476b413-ad12-48e6-b434-feed32039860.png)
 
 After dropping the scores of ninth grade, we can see that there was no difference on passing math score and the passing reading score. 
